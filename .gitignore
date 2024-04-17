@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+*.h
 
 # Compiled Object files
 *.slo
@@ -14,7 +15,6 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+# Programming Language FIles
+*.c
+*.cpp
+*.t
+*.php
+*.m
+*.groovy
+*.scala
+*.js
+*.java
+*.r
+*.ex
+*.as
+*.go
+*.mojo
+*.gleam
+*.swift
